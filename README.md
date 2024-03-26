@@ -46,28 +46,28 @@ This repository is designed to facilitate efficient data analysis workflows, fro
 
 
 ## Dashboard 📸📸
-![Power BI](images\1.png)
+![Power BI](images/1.png)
 
 The HR Analytics Dashboard features a refined monochromatic design, ensuring visual consistency and clarity with a single color palette. This minimalist approach allows users to focus on key HR metrics and insights without distractions, promoting ease of use and accessibility. With its sleek presentation, the dashboard empowers HR professionals with actionable insights for informed decision-making and strategic initiatives within the organization.
 
 ### Gender Analysis
-![Power BI](images\2.png)
-![Power BI](images\3.png)
+![Power BI](images/2.png)
+![Power BI](images/3.png)
 
 ### Job Title - Production Operator
-![Power BI](images\4.png)
+![Power BI](images/4.png)
 
 ### Job Title - Research Analyst
-![Power BI](images\5.png)
+![Power BI](images/5.png)
 
 ### Employees between the age of 20-25
-![Power BI](images\6.png)
+![Power BI](images/6.png)
 
 ### Information about the Employee named Kaine Padly
-![Power BI](images\7.png)
+![Power BI](images/7.png)
 
 ### Date of Joining of Kaine Padly
-![Power BI](images\8.png)
+![Power BI](images/8.png)
 
 ## Technologies Used 💻🔧
 Microsoft Power BI
@@ -86,5 +86,5 @@ DAX
 
 This HR Analytics Dashboard was created with assistance from the video linked above.
 
-*Video Credit: [YouTube Channel Name](https://www.youtube.com/channel/CHANNEL_ID)*
+*Video Credit: [Chandoo](https://www.youtube.com/@chandoo_)*
 
